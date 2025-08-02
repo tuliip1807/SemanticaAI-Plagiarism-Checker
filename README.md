@@ -1,4 +1,4 @@
-![SemanticaAI Agent Preview](interface.png)
+![SemanticaAI Agent Preview](upload/interface.png)
 # 🧠 SemanticaAI – Plagiarism Checker
 
 SemanticaAI is an AI-powered plagiarism detection agent developed using **IBM Watsonx Assistant** and **Granite Model**, hosted via **IBM Cloud**. It goes beyond surface-level checks by identifying **semantic plagiarism** — paraphrased or restructured text with similar meaning.
