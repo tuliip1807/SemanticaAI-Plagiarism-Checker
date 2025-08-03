@@ -57,7 +57,7 @@ SemanticaAI is an AI-powered plagiarism detection agent developed using **IBM Wa
 ## 🙋‍♀️ Author
 
 👤 Tulip Lenka   
-🎓 BTech – Robotics & AI, OUTR  
+🎓 BTech in Odisha University of Technology and Research ( Robotics and AI ) 
 🌐 [GitHub Profile](https://github.com/tulip1807)
 
 
