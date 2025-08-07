@@ -14,6 +14,13 @@ SemanticaAI is an AI-powered plagiarism detection agent developed using **IBM Wa
 
 ---
 
+## 🛠️ How to Use
+1. Clone the repository
+2. Open the Jupyter Notebook `SemanticaAI_Pl.ipynb`
+3. Follow the instructions in each cell
+
+---
+
 ## 🛠️ Technologies Used
 
 - IBM Watsonx Agent Lab
@@ -23,13 +30,10 @@ SemanticaAI is an AI-powered plagiarism detection agent developed using **IBM Wa
 
 ---
 
-## 📦 Files Included
-
-- `wx_agent.json`: Main agent instructions  
-- `vector_index.json`: Vectorized content store  
-- `wx_prompt.json`: Sample prompts  
-- `project.json`: IBM Cloud project config
-
+## 📂 Files
+- `SemanticaAI_Pl.ipynb` – Main project notebook
+- `README.md` – Project overview
+- `Interface.png` – UI Screenshot
 ---
 
 ## 💬 Demo Questions to Ask the Agent
